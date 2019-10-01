@@ -10,6 +10,7 @@ This code opens a file, move the pointer to the end and write time at the end..
 - [Install](#install)
 - [Deployment](#deployment)
 - [Usage](#usage)
+- [Output](#output)
 - [Contributing](#contributing)
 - [License](#license)
 - [Reference](#reference)
